@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geofencing</string>
+    <string name="gps_disabled_message">Please enable the GPS</string>
+
+</resources>
